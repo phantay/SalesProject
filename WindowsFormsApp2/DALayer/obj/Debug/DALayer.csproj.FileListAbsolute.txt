@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\WindowsFormsApp2\DALayer\bin\Debug\DALayer.dll.config
+C:\Users\User\source\repos\WindowsFormsApp2\DALayer\bin\Debug\DALayer.dll
+C:\Users\User\source\repos\WindowsFormsApp2\DALayer\bin\Debug\DALayer.pdb
+C:\Users\User\source\repos\WindowsFormsApp2\DALayer\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\WindowsFormsApp2\DALayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\WindowsFormsApp2\DALayer\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\WindowsFormsApp2\DALayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\WindowsFormsApp2\DALayer\obj\Debug\DALayer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsApp2\DALayer\obj\Debug\DALayer.csproj.CopyComplete
+C:\Users\User\source\repos\WindowsFormsApp2\DALayer\obj\Debug\DALayer.dll
+C:\Users\User\source\repos\WindowsFormsApp2\DALayer\obj\Debug\DALayer.pdb
+C:\Users\User\source\repos\WindowsFormsApp2\DALayer\obj\Debug\DALayer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsApp2\DALayer\obj\Debug\DALayer.Migrations.initvs1.resources
+C:\Users\User\source\repos\WindowsFormsApp2\DALayer\obj\Debug\DALayer.csproj.GenerateResource.cache

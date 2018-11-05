@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\WindowsFormsApp2\BLLayer\bin\Debug\BLLayer.dll
+C:\Users\User\source\repos\WindowsFormsApp2\BLLayer\bin\Debug\BLLayer.pdb
+C:\Users\User\source\repos\WindowsFormsApp2\BLLayer\obj\Debug\BLLayer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsApp2\BLLayer\obj\Debug\BLLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsApp2\BLLayer\obj\Debug\BLLayer.dll
+C:\Users\User\source\repos\WindowsFormsApp2\BLLayer\obj\Debug\BLLayer.pdb
+C:\Users\User\source\repos\WindowsFormsApp2\BLLayer\bin\Debug\BLLayer.dll.CodeAnalysisLog.xml
+C:\Users\User\source\repos\WindowsFormsApp2\BLLayer\bin\Debug\BLLayer.dll.lastcodeanalysissucceeded
